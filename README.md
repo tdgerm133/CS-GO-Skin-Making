@@ -18,5 +18,6 @@ Addting VTF file to model in CS:GO
 4. top left of window choose "Custom Paint Job" (drop down)
 5. find skin file (save skins in a file under C:/ drive)
 6. bottom right to submit to workshop
-(old video used as reference https://www.youtube.com/watch?v=3Z3tpxhIDAM)
-- place to download all source toolshttps://valvedev.info/tools/csgo-weapon-skin-templates/
+(for Photoshop - old video used as reference https://www.youtube.com/watch?v=3Z3tpxhIDAM)
+(for Blender - new video used as reference https://www.youtube.com/watch?v=ZhDaPMjtu90&t=102s)
+- place(s) to download all source (https://counter-strike.net/workshop/workshopresources) or (toolshttps://valvedev.info/tools/csgo-weapon-skin-templates/)
